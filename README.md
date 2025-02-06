@@ -1,3 +1,3 @@
 # Tableau_work
 
-Download the power point file for screenshoots of dashboards and workbooks, questions, and analysis results.
+Click view raw to download the powerpoint file for screenshoots of dashboards and workbooks, questions, and analysis results.
